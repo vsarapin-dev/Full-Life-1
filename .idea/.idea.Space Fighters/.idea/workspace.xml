@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f86cddeb-a622-4622-bfcc-f97f61a5e364" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/OptionalExtras/SampleGame2 (Advanced)/Scripts/Installers/EnemyInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/OptionalExtras/SampleGame1 (Beginner)/Scripts/Ship/Ship.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/Source/Main/DiContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/Mirror/Core/NetworkBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/Mirror/Examples/Room/Scripts/NetworkRoomManagerExt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/Mirror/Components/InterestManagement/Distance/DistanceInterestManagement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/OptionalExtras/SampleGame2 (Advanced)/Scripts/Installers/GameInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/OptionalExtras/IntegrationTests/Bindings/TestDiContainerMethods/Foo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Examples &amp; Extras/Scripts/VertexJitter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/Source/Util/ZenAutoInjecter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_ExampleScript_01.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/Mirror/Examples/MultipleAdditiveScenes/Scripts/PlayerScore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/Mirror/Core/NetworkConnection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ParrelSync/ParrelSync/Editor/ValidateCopiedFoldersIntegrity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/OptionalExtras/SampleGame2 (Advanced)/Scripts/Player/PlayerModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/Source/Install/Installer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/OptionalExtras/SampleGame2 (Advanced)/Scripts/Installers/PlayerInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/Mirror/Core/NetworkMessages.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF SSD.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/ConnectionButtonsMethods.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Layout/HorizontalOrVerticalLayoutGroup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainNetworkScripts/MainMenuNetworkManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/Mirror/Core/SyncDictionary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/Mirror/Core/NetworkIdentity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/PlayersData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/Mirror/Core/NetworkConnectionToClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMPro_Surface.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Actions/Actions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/Mirror/Components/NetworkRoomManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Installers/Menu/NetworkManagerInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/Mirror/Examples/AdditiveLevels/Scripts/RandomColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/Mirror/Examples/MultipleMatches/Scripts/RoomGUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/OptionalExtras/SampleGame2 (Advanced)/Scripts/Installers/GameSignalsInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Installers/Menu/LobbyInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/Mirror/Core/NetworkManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/ConnectionButtonsMethods.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/Mirror/Examples/MultipleMatches/Scripts/CanvasController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/PlayerListItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainNetworkScripts/NetworkedRoomPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/Mirror/Examples/AdditiveLevels/Scripts/AdditiveLevelsNetworkManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/OptionalExtras/Signals/Main/SignalBusInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/Mirror/Components/NetworkAnimator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/Mirror/Components/NetworkLobbyPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMPro_Mobile.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/LobbyButtonsListeners.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/OptionalExtras/Signals/Internal/SignalSubscription.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/LobbyPlayerUIList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetPacks/Mirror/Components/NetworkRoomPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/AssetPacks/Recyclable Scroll Rect/Demo/Scripts/DemoCell.cs" />
+        <option value="$PROJECT_DIR$/Assets/AssetPacks/Recyclable Scroll Rect/Demo/Scripts/RecyclableScrollerDemo.cs" />
+        <option value="$PROJECT_DIR$/Assets/AssetPacks/Recyclable Scroll Rect/Main/Editor/RecyclableScrollViewEditorTool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/LobbyCell.cs" />
+        <option value="$PROJECT_DIR$/Assets/AssetPacks/Recyclable Scroll Rect/Main/Scripts/Recycling System/VerticalRecyclingSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/RecyclableScroller.cs" />
+        <option value="$PROJECT_DIR$/Assets/AssetPacks/Mirror/Components/NetworkRoomManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameMenu/LobbyUserScroll/LobbyCell.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameMenu/OfflineSceneInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/AssetPacks/Recyclable Scroll Rect/Main/Scripts/RecyclableScrollRect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameMenu/LobbyInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NetworkPlayer/NetworkPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Installers/LobbyInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Installers/OfflineSceneInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Installers/GameMenu/OfflineSceneInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NetworkPlayerScripts/NetworkPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Installers/GameMenu/MainMenuNetworkManagerInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameMenu/Lobby/MainMenuNetworkPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameMenu/Lobby/NetworkRoomPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameMenu/ConnectionButtonsMethods.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameMenu/Lobby/MainMenuNetworkManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameMenu/LobbyUserScroll/RecyclableScroller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameMenu/Lobby/NetworkedRoomPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Installers/GameMenu/NetworkManagerInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Installers/GameMenu/LobbyInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/AssetPacks/Mirror/Core/NetworkManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NetworkPlayer/NetworkPlayerList.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NetworkPlayer/PlayerGeneralData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RegularClasses/PlayerGeneralData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RegularClasses/PlayersList.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/PlayerList.cs" />
+        <option value="$PROJECT_DIR$/Assets/AssetPacks/Mirror/Components/NetworkRoomPlayer.cs" />
+        <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Layout/HorizontalOrVerticalLayoutGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/PlayerUIList.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerGeneralData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RegularClasses/Player/PlayerDataHelpers/PlayerDataHelper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RegularClasses/Player/PlayerList.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Installers/ZenjectExtensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RegularClasses/Player/PlayerListHelpers/PlayerListHelper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RegularClasses/Player/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Installers/Menu/NetworkManagerInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Structs/PlayersData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Actions/Actions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Installers/Menu/LobbyInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/ConnectionButtonsMethods.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/PlayerListItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainNetworkScripts/NetworkedRoomPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainNetworkScripts/MainMenuNetworkManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/LobbyButtonsListeners.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/LobbyPlayerUIList.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Ok4JHFyRlbKrC8hVQ7BkO6ax9r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assets/Scripts" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f86cddeb-a622-4622-bfcc-f97f61a5e364" name="Default Changelist" comment="" />
+      <created>1682091174003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682091174003</updated>
+      <workItem from="1682091179632" duration="7458000" />
+      <workItem from="1682176832349" duration="20715000" />
+      <workItem from="1682243477469" duration="15361000" />
+      <workItem from="1682328356339" duration="6456000" />
+      <workItem from="1682417910976" duration="407000" />
+      <workItem from="1682418436214" duration="10965000" />
+      <workItem from="1682449937415" duration="3327000" />
+      <workItem from="1682512228937" duration="21111000" />
+      <workItem from="1682600194092" duration="2440000" />
+      <workItem from="1682608771394" duration="14245000" />
+      <workItem from="1682676519776" duration="23082000" />
+      <workItem from="1682772277177" duration="16776000" />
+      <workItem from="1682851760112" duration="35767000" />
+      <workItem from="1682939141798" duration="13588000" />
+      <workItem from="1683375387723" duration="1636000" />
+      <workItem from="1683380778227" duration="116000" />
+      <workItem from="1683387205352" duration="142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1159" y="595" key="#Custom_Plugin_Repositories" timestamp="1683380075267">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1159" y="595" key="#Custom_Plugin_Repositories/0.0.2560.1392@0.0.2560.1392" timestamp="1683380075267" />
+    <state x="1144" y="559" width="861" height="645" key="#Notifications" timestamp="1683387274195">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1144" y="559" width="861" height="645" key="#Notifications/0.0.2560.1392@0.0.2560.1392" timestamp="1683387274195" />
+    <state x="1046" y="563" key="#Updates" timestamp="1683387310926">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1046" y="563" key="#Updates/0.0.2560.1392@0.0.2560.1392" timestamp="1683387310926" />
+    <state x="1059" y="451" key="FileChooserDialogImpl" timestamp="1682252288251">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1059" y="451" key="FileChooserDialogImpl/0.0.2560.1392@0.0.2560.1392" timestamp="1682252288251" />
+    <state x="990" y="386" key="RiderGenerateDialog" timestamp="1682977908819">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="990" y="386" key="RiderGenerateDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1682977908819" />
+    <state x="479" y="236" width="1439" height="928" key="SettingsEditor" timestamp="1683380891354">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="479" y="236" width="1439" height="928" key="SettingsEditor/0.0.2560.1392@0.0.2560.1392" timestamp="1683380891354" />
+    <state x="541" y="186" width="1565" height="848" key="find.popup" timestamp="1682972623007">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="541" y="186" width="1565" height="848" key="find.popup/0.0.2560.1392@0.0.2560.1392" timestamp="1682972623007" />
+  </component>
+</project>
