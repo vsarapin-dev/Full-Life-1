@@ -6,6 +6,7 @@ using Zenject;
 using Sounds;
 using MainNetworkScripts;
 using Mirror;
+using RegularClasses.UDP;
 
 namespace Menu.Buttons
 {
@@ -81,7 +82,6 @@ namespace Menu.Buttons
         {
             _uiSounds.PlayClickSound();
             AppropriateAction();
-            Debug.Log(name);
         }
 
         /// <summary>
@@ -117,6 +117,7 @@ namespace Menu.Buttons
                     StartClient();
                     break;
                 case object _ when _currentButtonName.Contains("exit"):
+                    Exit();
                     break;
             }
         }
