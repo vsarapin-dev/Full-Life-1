@@ -361,28 +361,6 @@ MonoBehaviour:
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
---- !u!1 &272363490 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3426784507339968070, guid: 379a789e323e15f46a6c6bb3c4de680e,
-    type: 3}
-  m_PrefabInstance: {fileID: 1308530764}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &272363495
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 272363490}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bc654f29862fc2643b948f772ebb9e68, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  color: {r: 1, g: 1, b: 1, a: 1}
-  padding: 2
-  width: 150
-  height: 25
 --- !u!1001 &328990627
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2978,7 +2956,7 @@ PrefabInstance:
     - target: {fileID: -4708967168811801049, guid: 379a789e323e15f46a6c6bb3c4de680e,
         type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3426784507339968068, guid: 379a789e323e15f46a6c6bb3c4de680e,
         type: 3}
