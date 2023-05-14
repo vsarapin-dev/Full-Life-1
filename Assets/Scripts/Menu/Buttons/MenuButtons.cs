@@ -1,4 +1,3 @@
-using System;
 using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
@@ -6,13 +5,12 @@ using Zenject;
 using Sounds;
 using MainNetworkScripts;
 using Mirror;
-using RegularClasses.UDP;
 
 namespace Menu.Buttons
 {
     /// <summary>
     ///  This script is used to add events to the text buttons in the menu
-    /// <summary>
+    /// </summary>
     public class MenuButtons : MonoBehaviour, IPointerClickHandler, IPointerEnterHandler, IPointerExitHandler
     {
         /// <summary>
