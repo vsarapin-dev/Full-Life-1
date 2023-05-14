@@ -7,22 +7,43 @@ namespace Menu.GameUI.MenuFrames
         /// <summary>
         /// The lobby frame game object.
         /// </summary>
-        [SerializeField] private GameObject _playerListFrameGo;
+        [SerializeField] private GameObject playerListFrameGo;
+        
+        /// <summary>
+        /// The lobby server IP frame game object.
+        /// </summary>
+        [SerializeField] private GameObject serverIpGo;
 
         /// <summary>
         /// Makes the player list frame game object active.
         /// </summary>
         public void MakePlayerListFrameActive()
         {
-            _playerListFrameGo.SetActive(true);
+            playerListFrameGo.SetActive(true);
         }
 
         /// <summary>
         /// Makes the player list frame game object inactive.
         /// </summary>
-        public void MakePlayerListInactive()
+        public void MakePlayerListFrameInactive()
         {
-            _playerListFrameGo.SetActive(false);
+            playerListFrameGo.SetActive(false);
+        }
+        
+        /// <summary>
+        /// Makes the server IP frame game object active.
+        /// </summary>
+        public void MakeServerIpFrameActive()
+        {
+            serverIpGo.SetActive(true);
+        }
+
+        /// <summary>
+        /// Makes the server IP frame game object inactive.
+        /// </summary>
+        public void MakeServerIpFrameInactive()
+        {
+            serverIpGo.SetActive(false);
         }
     }
 }

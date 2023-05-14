@@ -3,8 +3,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using Zenject;
 using Sounds;
-using MainNetworkScripts;
-using Mirror;
+using Menu.GameUI.MenuFrames;
 
 namespace Menu.Buttons
 {
@@ -31,7 +30,7 @@ namespace Menu.Buttons
         /// <summary>
         /// The mouse over color.
         /// </summary>
-        private Color _mouseOverColor = Color.grey;
+        private readonly Color _mouseOverColor = Color.grey;
 
         /// <summary>
         /// The original button color.
@@ -46,18 +45,18 @@ namespace Menu.Buttons
         /// <summary>
         /// The MainMenuNetworkManager class.
         /// </summary>
-        private MainMenuNetworkManager _mainMenuNetworkManager;
+        private Frames _frames;
 
         /// <summary>
         /// Injects the UISounds class.
         /// </summary>
         /// <param name="uiSounds">The UISounds class.</param>
-        /// <param name="mainMenuNetworkManager">The MainMenuNetworkManager class.</param>
+        /// <param name="frames">The MainMenuNetworkManager class.</param>
         [Inject]
-        private void Initialize(UISounds uiSounds, MainMenuNetworkManager mainMenuNetworkManager)
+        private void Initialize(UISounds uiSounds, Frames frames)
         {
             _uiSounds = uiSounds;
-            _mainMenuNetworkManager = mainMenuNetworkManager;
+            _frames = frames;
         }
 
         /// <summary>
@@ -65,11 +64,10 @@ namespace Menu.Buttons
         /// </summary>
         private void Awake()
         {
-            Debug.Log(NetworkServer.active);
             _currentButtonName = name.ToLower();
-            _currentButtonObject = GetComponent<TMPro.TMP_Text>();
+            _currentButtonObject = GetComponent<TMP_Text>();
             _buttonAudioSource = GetComponent<AudioSource>();
-            _originalColor = GetComponent<TMPro.TMP_Text>().color;
+            _originalColor = GetComponent<TMP_Text>().color;
         }
 
         /// <summary>
@@ -108,35 +106,21 @@ namespace Menu.Buttons
         {
             switch (true)
             {
-                case object _ when _currentButtonName.Contains("new"):
-                    StartHost();
-                    break;
-                case object _ when _currentButtonName.Contains("join"):
+                case { } _ when _currentButtonName.Contains("new"):
                     StartClient();
                     break;
-                case object _ when _currentButtonName.Contains("exit"):
+                case { } _ when _currentButtonName.Contains("exit"):
                     Exit();
                     break;
             }
         }
 
         /// <summary>
-        /// Starts a host session on the local machine.
-        /// </summary>
-        private void StartHost()
-        {
-            _mainMenuNetworkManager.networkAddress = "localhost";
-            _mainMenuNetworkManager.StartHost();
-            _mainMenuNetworkManager.CreatePlayerManager();
-        }
-
-        /// <summary>
-        /// Connects to a host session on the local machine.
+        /// Show server IP frame.
         /// </summary>
         private void StartClient()
         {
-            _mainMenuNetworkManager.networkAddress = "localhost";
-            _mainMenuNetworkManager.StartClient();
+            _frames.MakeServerIpFrameActive();
         }
 
         /// <summary>

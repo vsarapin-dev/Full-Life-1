@@ -25,7 +25,6 @@ namespace Menu.GameUI
         private void Awake()
         {
             SceneManager.sceneLoaded += OnSceneLoaded;
-            DontDestroyOnLoad(gameObject);
         }
 
         /// <summary>
